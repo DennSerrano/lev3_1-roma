@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Tangerine:wght@400;700&display=swap');
+
+/* font-family: 'Roboto', sans-serif;
+font-family: 'Tangerine', cursive;
+Farbe: #e7bc0e  / #efefef / #6bc1a3 / 
+#cb91b6 / #7eb8e1 / #000 / #fff */
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* ================
+        header
+================ */
+.headeranker{
+color:#fff;
+font-weight: 700;
+font-size: 3vh;
+letter-spacing: 0.3vw;
+text-decoration:underline #e7bc0e;
+margin:0 6vw 0 2vw;
+}
+
+.parallax1{
+    background-image: url("../img/cleo-topper.jpg");
+    min-height: 100px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    text-align:right;
+}
+.pic1{
+    width:2vw;
+}
+
+/* ================
+        Main
+================ */
+.parallax2{
+    background-image: url("../img/cleo-topper.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color:#fff;
+    letter-spacing: -0.3vw;
+    font-size:9vh;
+    line-height:9vh;
+    width:26vw;
+    margin:0 0 0 10vw;
+}
+
+.scroll{
+    font-family: 'Tangerine', cursive; 
+    font-size:8vh;
+    font-weight: 600;
+    letter-spacing: -0.3vw;
+    color:#e7bc0e;
+    text-decoration: none;
+    margin:0 0 0 6vw;
+}
+.pposition1{
+    margin:0 0 0 10vw;
+    font-size: 4vh;
+    font-weight: 700;
+    line-height: 7vh;
+    width: 53vw;
+}
+.pposition2{
+    margin:0 0 0 20vw;
+    font-size: 4vh;
+    font-weight: 700;
+    line-height: 7vh;
+    width: 70vw;
+}
+.text{
+    font-size: 4vh;
+}
+.textcolor1{
+color: #6bc1a3;
+padding-top: 20vh;
+margin:0 0 20vh 10vw;
+}
+.textcolor2{
+    color: #7eb8e1;
+}
+.articlemargin{
+margin:40vh 0 40vh 10vw;
+}
+.größe{
+    font-size: 15vh;
+}
+.maintextcolor1{
+    
+color:#e7bc0e;
+}
+.maintextcolor2{
+    
+color:#cb91b6;
+}
+.maintextcolor3{
+    
+color:#6bc1a3;
+}
+
+.pic2-4{
+    width:8vw;
+}
+.span{
+background-color: #000;
+color:white;
+}
+
+/* ================
+        Footer
+================ */
+
+.background2{
+    background: url("../img/see.png") center/cover no-repeat;
+    height:140vh;
+}
+footer div img{
+    margin-top:11vh;
+    width: 99vw;
+    text-align: center;
+}
+h3{
+    color:white;
+    font-size:  10vh;
+    width:65vw;
+    padding: 50vh 0 0 10vw;
+}
+.backgroundblack{
+    background: #000;
+
+}
+
+.button{
+    font-size: 3vh;
+    color:white;
+    background-color: #000;
+    padding:1.5% 2.5%;
+    border-color: #fff;
+    margin:10vh 0 20vh 10vw;
+}
+.endp{
+    color:white;
+    font-weight: 300;
+    text-align:center;
+}
+
+.ROMA{
+    text-decoration: none;
+    color: #6bc1a3;
+}
