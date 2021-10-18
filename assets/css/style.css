@@ -99,16 +99,13 @@ margin:40vh 0 40vh 10vw;
 .größe{
     font-size: 15vh;
 }
-.maintextcolor1{
-    
+.maintextcolor1{   
 color:#e7bc0e;
 }
-.maintextcolor2{
-    
+.maintextcolor2{   
 color:#cb91b6;
 }
 .maintextcolor3{
-    
 color:#6bc1a3;
 }
 
@@ -118,6 +115,7 @@ color:#6bc1a3;
 .span{
 background-color: #000;
 color:white;
+padding: 0 5px 5px 0;
 }
 
 /* ================
